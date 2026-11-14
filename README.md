@@ -1,1 +1,1 @@
-# BasebandStudy
+# Baseband Study\n\n手机上传此项目文件到 GitHub 仓库根目录后，Actions 会自动构建 Debug APK。\n打开 Actions → Build Baseband Study APK → 最新运行 → Artifacts 下载 BasebandStudy-debug-apk。\n
